@@ -1,7 +1,7 @@
 // Create variables for the welcome message
 var greeting = 'Howdy ';
 var name = 'James';
-var message = ', please check the fucking order:';
+var message = ', please check your awesmoe order:';
 //Concatenate the three variables above to create the welcome message
 var welcome = greeting + name + message;
 
